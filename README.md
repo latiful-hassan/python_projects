@@ -1,1 +1,2 @@
-# python_projects
+# python_projects <br />
+- A variety of small projects
